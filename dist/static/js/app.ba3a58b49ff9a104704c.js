@@ -150,17 +150,17 @@ html{
 }
 `],
       currentMarkdown: '',
-      fullMarkdown: `杜承玖
+      fullMarkdown: `邢养龙
 ----
 
-全栈工程师，前端讲师，现在在 [优才](http://ucai.cn) 教前端课程。
+全栈工程师，前端开发工程师。
 
 技能
 ----
 
 * 前端开发
 * PHP 开发
-* 前端授课
+* 前端特效开发
 
 工作经历
 ----
@@ -468,4 +468,4 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 
 /***/ })
 ],[7]);
-//# sourceMappingURL=app.1190086994bdc91eb5db.js.map
+//# sourceMappingURL=app.ba3a58b49ff9a104704c.js.map
